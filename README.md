@@ -3,6 +3,6 @@ An iris segmentation project in digital image processing is to develop an accura
 
 * you can use any image as input, I've used MMU-Iris Database *
 
-## Contributors
+## Authors and Acknowledgment
 - Sonika Ramesh (https://github.com/iamsonuram)
 - Yashasrn33 (https://github.com/Yashasrn33)
